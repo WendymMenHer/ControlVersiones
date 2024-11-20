@@ -1,2 +1,6 @@
 1. Café
 2. Pan
+3. Agua
+4. Azúcar
+5. Leche
+6. Huevos.
